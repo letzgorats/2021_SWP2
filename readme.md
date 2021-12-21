@@ -1,9 +1,9 @@
 # AD Project
 AD_Project for 2021-2 Software Project 2 <br />
 - email address : ian0125@kookmin.ac.kr <br />
-- 이름 : 박주현 <br />
+- 이름 : 김정엽  <br />
 - 학과 : 소프트웨어학과 <br />
-- 학번 : 20182082 <br />
+- 학번 : 20171601 <br />
 
 - 1) 조명 : 키오조(팀 5)
 - 2) 조원 / 3) 학번:
