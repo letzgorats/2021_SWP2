@@ -1,6 +1,6 @@
 # AD Project
 AD_Project for 2021-2 Software Project 2 <br />
-- email address : ian0125@kookmin.ac.kr <br />
+- email address : hockey9322@kookmin.ac.kr <br />
 - 이름 : 김정엽  <br />
 - 학과 : 소프트웨어학과 <br />
 - 학번 : 20171601 <br />
