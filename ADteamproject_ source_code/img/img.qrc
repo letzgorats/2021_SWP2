@@ -1,0 +1,14 @@
+<RCC>
+  <qresource prefix="icon">
+    <file>english_img.jpg</file>
+    <file>korean_img.jpg</file>
+    <file>news_img.png</file>
+    <file>big_netflix_img.jpg</file>
+    <file>big_yotube_img.png</file>
+    <file>home_img.png</file>
+    <file>conversation_img.jpg</file>
+    <file>youtube_img.jpg</file>
+    <file>movie_img.jpg</file>
+    <file>netflix_img.jpg</file>
+  </qresource>
+</RCC>
